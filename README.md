@@ -10,6 +10,7 @@ This project is a content-based movie recommendation system developed using Pyth
 ## Dataset
 - movies.csv (MovieLens dataset)
 - Columns: movieId, title, genres, etc.
+Note: The dataset (movies.csv) is large, so GitHub does not preview it directly. Please **download the file to view** its contents.
 
 ## Technologies Used
 - Python
